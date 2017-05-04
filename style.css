@@ -1,6 +1,7 @@
 img {
 	height: 80px;
 	width: 80px;
+
 }
 
 body {
@@ -11,4 +12,5 @@ body {
 #chat {
 	width: 90px;
 	height: 90px;
+	transition: 2s linear;
 }
