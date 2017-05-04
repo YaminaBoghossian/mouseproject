@@ -1,0 +1,14 @@
+img {
+	height: 80px;
+	width: 80px;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+}
+
+#chat {
+	width: 90px;
+	height: 90px;
+}
